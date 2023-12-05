@@ -158,7 +158,7 @@
       "is_gdpr": "1",
       "ads_value": [
         {
-          "publisher_id": "pub-3940256099942544",
+          "publisher_id": "",
           "is_open": "1",
           "open_ads_id": "ca-app-pub-3940256099942544/9257395921",
           "is_banner": "1",
@@ -186,7 +186,7 @@
       "is_gdpr": "0",
       "ads_value": [
         {
-          "publisher_id": "pub-3940256099942544",
+          "publisher_id": "",
           "is_open": "1",
           "open_ads_id": "ca-app-pub-3940256099942544/9257395921",
           "is_banner": "1",
