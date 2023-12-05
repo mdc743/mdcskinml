@@ -155,7 +155,7 @@
     {
       "id": "6",
       "ads_name": "applovin",
-      "is_gdpr": "0",
+      "is_gdpr": "1",
       "ads_value": [
         {
           "publisher_id": "pub-3940256099942544",
