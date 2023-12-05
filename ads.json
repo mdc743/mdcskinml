@@ -1,0 +1,312 @@
+{
+  "ads": [
+    {
+      "id": "1",
+      "ads_name": "admob",
+      "is_gdpr": "0",
+      "ads_value": [
+        {
+          "publisher_id": "pub-3940256099942544",
+          "is_open": "1",
+          "open_ads_id": "ca-app-pub-3940256099942544/9257395921",
+          "is_banner": "1",
+          "banner_id": "ca-app-pub-3940256099942544/6300978111",
+          "is_inter": "1",
+          "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+          "inter_clicks": "3",
+          "is_native": "1",
+          "show_native": "4",
+          "native_id": "ca-app-pub-3940256099942544/2247696110",
+          "reward_id": "ca-app-pub-3940256099942544/5224354917",
+          "is_reward": "1",
+          "keywords_1": "",
+          "keywords_2": "",
+          "keywords_3": "",
+          "keywords_4": "",
+          "keywords_5": ""
+        }
+      ],
+      "status": "1"
+    },
+    {
+      "id": "2",
+      "ads_name": "google_ad_manager",
+      "is_gdpr": "0",
+      "ads_value": [
+        {
+          "publisher_id": "pub-3940256099942544",
+          "is_open": "1",
+          "open_ads_id": "ca-app-pub-3940256099942544/9257395921",
+          "is_banner": "1",
+          "banner_id": "ca-app-pub-3940256099942544/6300978111",
+          "is_inter": "1",
+          "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+          "inter_clicks": "3",
+          "is_native": "1",
+          "show_native": "4",
+          "native_id": "ca-app-pub-3940256099942544/2247696110",
+          "reward_id": "ca-app-pub-3940256099942544/5224354917",
+          "is_reward": "1",
+          "keywords_1": "",
+          "keywords_2": "",
+          "keywords_3": "",
+          "keywords_4": "",
+          "keywords_5": ""
+        }
+      ],
+      "status": "0"
+    },
+    {
+      "id": "3",
+      "ads_name": "facebook",
+      "is_gdpr": "0",
+      "ads_value": [
+        {
+          "publisher_id": "pub-3940256099942544",
+          "is_open": "1",
+          "open_ads_id": "ca-app-pub-3940256099942544/9257395921",
+          "is_banner": "1",
+          "banner_id": "ca-app-pub-3940256099942544/6300978111",
+          "is_inter": "1",
+          "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+          "inter_clicks": "3",
+          "is_native": "1",
+          "show_native": "4",
+          "native_id": "ca-app-pub-3940256099942544/2247696110",
+          "reward_id": "ca-app-pub-3940256099942544/5224354917",
+          "is_reward": "1",
+          "keywords_1": "",
+          "keywords_2": "",
+          "keywords_3": "",
+          "keywords_4": "",
+          "keywords_5": ""
+        }
+      ],
+      "status": "0"
+    },
+    {
+      "id": "4",
+      "ads_name": "startapp",
+      "is_gdpr": "0",
+      "ads_value": [
+        {
+          "publisher_id": "pub-3940256099942544",
+          "is_open": "1",
+          "open_ads_id": "ca-app-pub-3940256099942544/9257395921",
+          "is_banner": "1",
+          "banner_id": "ca-app-pub-3940256099942544/6300978111",
+          "is_inter": "1",
+          "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+          "inter_clicks": "3",
+          "is_native": "1",
+          "show_native": "4",
+          "native_id": "ca-app-pub-3940256099942544/2247696110",
+          "reward_id": "ca-app-pub-3940256099942544/5224354917",
+          "is_reward": "1",
+          "keywords_1": "",
+          "keywords_2": "",
+          "keywords_3": "",
+          "keywords_4": "",
+          "keywords_5": ""
+        }
+      ],
+      "status": "0"
+    },
+    {
+      "id": "5",
+      "ads_name": "unity",
+      "is_gdpr": "0",
+      "ads_value": [
+        {
+          "publisher_id": "pub-3940256099942544",
+          "is_open": "1",
+          "open_ads_id": "ca-app-pub-3940256099942544/9257395921",
+          "is_banner": "1",
+          "banner_id": "ca-app-pub-3940256099942544/6300978111",
+          "is_inter": "1",
+          "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+          "inter_clicks": "3",
+          "is_native": "1",
+          "show_native": "4",
+          "native_id": "ca-app-pub-3940256099942544/2247696110",
+          "reward_id": "ca-app-pub-3940256099942544/5224354917",
+          "is_reward": "1",
+          "keywords_1": "",
+          "keywords_2": "",
+          "keywords_3": "",
+          "keywords_4": "",
+          "keywords_5": ""
+        }
+      ],
+      "status": "0"
+    },
+    {
+      "id": "6",
+      "ads_name": "applovin",
+      "is_gdpr": "0",
+      "ads_value": [
+        {
+          "publisher_id": "pub-3940256099942544",
+          "is_open": "1",
+          "open_ads_id": "ca-app-pub-3940256099942544/9257395921",
+          "is_banner": "1",
+          "banner_id": "ca-app-pub-3940256099942544/6300978111",
+          "is_inter": "1",
+          "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+          "inter_clicks": "3",
+          "is_native": "1",
+          "show_native": "4",
+          "native_id": "ca-app-pub-3940256099942544/2247696110",
+          "reward_id": "ca-app-pub-3940256099942544/5224354917",
+          "is_reward": "1",
+          "keywords_1": "",
+          "keywords_2": "",
+          "keywords_3": "",
+          "keywords_4": "",
+          "keywords_5": ""
+        }
+      ],
+      "status": "0"
+    },
+    {
+      "id": "7",
+      "ads_name": "applovin_max",
+      "is_gdpr": "0",
+      "ads_value": [
+        {
+          "publisher_id": "pub-3940256099942544",
+          "is_open": "1",
+          "open_ads_id": "ca-app-pub-3940256099942544/9257395921",
+          "is_banner": "1",
+          "banner_id": "ca-app-pub-3940256099942544/6300978111",
+          "is_inter": "1",
+          "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+          "inter_clicks": "3",
+          "is_native": "1",
+          "show_native": "4",
+          "native_id": "ca-app-pub-3940256099942544/2247696110",
+          "reward_id": "ca-app-pub-3940256099942544/5224354917",
+          "is_reward": "1",
+          "keywords_1": "",
+          "keywords_2": "",
+          "keywords_3": "",
+          "keywords_4": "",
+          "keywords_5": ""
+        }
+      ],
+      "status": "0"
+    },
+    {
+      "id": "8",
+      "ads_name": "applovin_discovery",
+      "is_gdpr": "0",
+      "ads_value": [
+        {
+          "publisher_id": "pub-3940256099942544",
+          "is_open": "1",
+          "open_ads_id": "ca-app-pub-3940256099942544/9257395921",
+          "is_banner": "1",
+          "banner_id": "ca-app-pub-3940256099942544/6300978111",
+          "is_inter": "1",
+          "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+          "inter_clicks": "3",
+          "is_native": "1",
+          "show_native": "4",
+          "native_id": "ca-app-pub-3940256099942544/2247696110",
+          "reward_id": "ca-app-pub-3940256099942544/5224354917",
+          "is_reward": "1",
+          "keywords_1": "",
+          "keywords_2": "",
+          "keywords_3": "",
+          "keywords_4": "",
+          "keywords_5": ""
+        }
+      ],
+      "status": "0"
+    },
+    {
+      "id": "9",
+      "ads_name": "ironsource",
+      "is_gdpr": "0",
+      "ads_value": [
+        {
+          "publisher_id": "pub-3940256099942544",
+          "is_open": "1",
+          "open_ads_id": "ca-app-pub-3940256099942544/9257395921",
+          "is_banner": "1",
+          "banner_id": "ca-app-pub-3940256099942544/6300978111",
+          "is_inter": "1",
+          "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+          "inter_clicks": "3",
+          "is_native": "1",
+          "show_native": "4",
+          "native_id": "ca-app-pub-3940256099942544/2247696110",
+          "reward_id": "ca-app-pub-3940256099942544/5224354917",
+          "is_reward": "1",
+          "keywords_1": "",
+          "keywords_2": "",
+          "keywords_3": "",
+          "keywords_4": "",
+          "keywords_5": ""
+        }
+      ],
+      "status": "0"
+    },
+    {
+      "id": "10",
+      "ads_name": "wortise",
+      "is_gdpr": "0",
+      "ads_value": [
+        {
+          "publisher_id": "pub-3940256099942544",
+          "is_open": "1",
+          "open_ads_id": "ca-app-pub-3940256099942544/9257395921",
+          "is_banner": "1",
+          "banner_id": "ca-app-pub-3940256099942544/6300978111",
+          "is_inter": "1",
+          "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+          "inter_clicks": "3",
+          "is_native": "1",
+          "show_native": "4",
+          "native_id": "ca-app-pub-3940256099942544/2247696110",
+          "reward_id": "ca-app-pub-3940256099942544/5224354917",
+          "is_reward": "1",
+          "keywords_1": "",
+          "keywords_2": "",
+          "keywords_3": "",
+          "keywords_4": "",
+          "keywords_5": ""
+        }
+      ],
+      "status": "0"
+    },
+    {
+      "id": "10",
+      "ads_name": "appnext",
+      "is_gdpr": "0",
+      "ads_value": [
+        {
+          "publisher_id": "pub-3940256099942544",
+          "is_open": "1",
+          "open_ads_id": "ca-app-pub-3940256099942544/9257395921",
+          "is_banner": "1",
+          "banner_id": "ca-app-pub-3940256099942544/6300978111",
+          "is_inter": "1",
+          "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+          "inter_clicks": "3",
+          "is_native": "1",
+          "show_native": "4",
+          "native_id": "ca-app-pub-3940256099942544/2247696110",
+          "reward_id": "ca-app-pub-3940256099942544/5224354917",
+          "is_reward": "1",
+          "keywords_1": "",
+          "keywords_2": "",
+          "keywords_3": "",
+          "keywords_4": "",
+          "keywords_5": ""
+        }
+      ],
+      "status": "0"
+    }
+  ]
+}
